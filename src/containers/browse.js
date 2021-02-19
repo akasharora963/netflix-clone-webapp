@@ -80,7 +80,7 @@ export function BrowseContainer({ slides }) {
           <Header.PlayButton>
               <Player>
                 <Player.Button />
-                <Player.Video src="/videos/anime.mp4" />
+                <Player.Video src="/videos/jujtsu_opening.mp4" />
               </Player>
           </Header.PlayButton>
         </Header.Feature>
